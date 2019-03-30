@@ -1,43 +1,27 @@
 # 955.WLB
 
-[996.ICU](https://github.com/996icu/996.ICU) 的相向 Repo。旨在让更多的人逃离 996，加入 955 的行列。
+
 
 996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
 
-955 工作制：即每天早 9 点到岗，一直工作到晚上 5 点。每周工作 5 天。
 
-955.WLB：工作 955，work–life balance (工作与生活的平衡)。
+## 996 的公司名单
 
-## 955 的公司名单
+* 阿里巴巴、妈妈、云、大文娱 - 北京/上海/东南亚/
+* 腾讯游戏、社交、企业 - 北京/上海
+* 百度全家桶 - 北京/上海/
 
-* Autodesk - 北京/上海
-* Cisco - 北京/上海/杭州/苏州
-* coolapk (酷安) - 北京/深圳
-* eBay - 上海
-* EMC - 上海
-* Ericsson - 上海
-* Google - 北京/上海
-* HP - 上海
-* HSBC - 上海
-* IBM - 上海
-* Intel - 上海
-* LeetCode - 上海
-* Microsoft - 北京/上海/苏州
-* Oracle - 上海
-* RingCentral - 厦门
-* SAP - 上海
-* Splunk - 上海
-* ThoughtWorks - 西安/北京/深圳/成都/武汉/上海
-* WeWork - 上海
-
-完整名单见 [vote_for_955_companies.md](./vote_for_955_companies.md)
 
 ## 说明
 
-以上公司名单，基本不属于 996 的公司，相对接近 955 的水平，但是依旧要看部门和地区，不能保证完全准确性。
+以上公司名单，通过AI算法+大数据技术，基于脉脉、微信、微博等社交、招聘平台的大数据获得。
+基本属于 996 的公司，或者相对接近 956 的水平，但是因存在部门、地区、职位等因素差异，不能保证完全准确性。
+如有不准确，欢迎更新和指正
+
+
 
 ## 添加公司
 
-请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。如果是国内公司，请加上公司中文名（比如：`Xiaomi (小米)`）。
+请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。
 
-[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](http://feathub.com/formulahendry/955.WLB)
+[![Feature Requests](http://feathub.com/asa1230/996.ICU?format=svg)](http://feathub.com/asa1230/996.ICU)
